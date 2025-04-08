@@ -49,3 +49,7 @@ The EDA focuses on the following questions:
 - Physical activity and step count show moderate associations with sleep duration.
 - Gender-based differences exist in activity levels and heart rate.
 - Individuals with **Sleep Apnea** and **Insomnia** have higher stress and lower sleep durations.
+
+## ⚒️ Deployed on
+
+Posit Cloud - https://posit.cloud/content/10134506
